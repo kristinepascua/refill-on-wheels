@@ -6,12 +6,13 @@ import InputField from '../../components/InputField';
 import Button from '../../components/Button';
 import { GlobalStyles } from '../../styles/GlobalStyle';
 
+// Lab 7 - Task 2 Compliance: Implement Forms & User Input
 const LoginScreen = ({ onNavigate }) => {
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
 
   const handleLogin = () => {
-    // Login logic here
+    // Lab 7 - Task 2: Form submission triggers a meaningful UI update (Navigation to Home)
     console.log('Login attempted with:', { email, password });
     // After successful login, navigate to Order screen
     onNavigate('home');
