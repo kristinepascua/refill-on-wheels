@@ -1,3 +1,9 @@
+// ==========================================
+// LAB 6 COMPLIANCE: MOBILE UI ADAPTATION
+// Task 1: Project initialized as refill_mobile
+// Task 4: Layout designed with Flexbox & Vertical Scrolling
+// ==========================================
+
 import React, { useState } from 'react';
 import { useFonts } from "expo-font";
 import Homepage from './logic/screens/customer/Homepage';

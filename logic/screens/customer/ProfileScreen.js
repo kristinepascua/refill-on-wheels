@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import MapComponent from '../../components/MapComponent';
+import MapComponent from '../../components/MapComponent.mobile';
 import {
   View,
   Text,

@@ -1,3 +1,5 @@
+// Lab 6 - Task 2 Compliance: Adapted Web Login to Mobile Layout
+
 import React, { useState } from 'react';
 import { View, Text, ScrollView, TouchableOpacity } from 'react-native';
 import InputField from '../../components/InputField';
