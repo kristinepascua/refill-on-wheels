@@ -10,7 +10,7 @@ export default StyleSheet.create({
 
   // Simple Clean Header
   header: {
-    backgroundColor: '#608BC1',
+    backgroundColor: '#133E87',
     paddingHorizontal: 20,
     paddingTop: 40,
     paddingBottom: 24,
@@ -215,7 +215,7 @@ export default StyleSheet.create({
     flexDirection: 'row',
     alignItems: 'center',
     justifyContent: 'center',
-    backgroundColor: '#608BC1',
+    backgroundColor: '#133E87',
     paddingVertical: 12,
     borderRadius: 10,
     gap: 6,
@@ -236,8 +236,9 @@ export default StyleSheet.create({
 
   // Order Card - Clean Layout
   orderCard: {
-    backgroundColor: '#608BC1',
+    backgroundColor: '#ffffff',
     borderRadius: 14,
+    borderColor: '#133E87',
     padding: 16,
     marginBottom: 12,
     shadowColor: '#000',
@@ -260,7 +261,7 @@ export default StyleSheet.create({
   },
   orderDate: {
     fontSize: 12,
-    color: 'white',
+    color: '#0d2240',
   },
   statusBadge: {
     backgroundColor: '#d1fae5',
@@ -283,18 +284,18 @@ export default StyleSheet.create({
   },
   orderLabel: {
     fontSize: 11,
-    color: 'white',
+    color: '#0d2240',
     marginBottom: 4,
   },
   orderValue: {
     fontSize: 15,
     fontWeight: 'bold',
-    color: '#ffffff',
+    color: '#0d2240',
   },
   orderPrice: {
     fontSize: 15,
     fontWeight: 'bold',
-    color: 'yellow',
+    color: '#0d2240',
   },
   reorderBtn: {
     backgroundColor: '#eff6ff',

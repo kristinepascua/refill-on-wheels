@@ -20,14 +20,14 @@ export default StyleSheet.create({
 
   // Header
   headerr: {
-    backgroundColor: '#608BC1',
+    backgroundColor: '#133E87',
     paddingHorizontal: 20,
     paddingVertical: 20,
     borderBottomLeftRadius: 20,
     borderBottomRightRadius: 20,
   },
   header: {
-    backgroundColor: '#608BC1',
+    backgroundColor: '#133E87',
     paddingHorizontal: 20,
     paddingVertical: 20,
     height: 390,
@@ -257,7 +257,7 @@ export default StyleSheet.create({
     marginBottom: 16,
   },
   orderCard: {
-    backgroundColor: '#eff6ff',
+    backgroundColor: '#608BC1',
     borderRadius: 12,
     padding: 16,
     borderWidth: 2,

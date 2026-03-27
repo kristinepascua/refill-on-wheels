@@ -9,7 +9,7 @@ export default StyleSheet.create({
 
   // Header
   headerGradient: {
-    backgroundColor: '#608BC1',
+    backgroundColor: '#133E87',
     paddingBottom: 20,
     paddingTop: 20, 
     shadowColor: '#000',
