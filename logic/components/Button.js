@@ -1,3 +1,5 @@
+// Lab 6 - Task 3 Compliance: Reusable component with props
+
 import React from 'react';
 import { TouchableOpacity, Text } from 'react-native';
 import { GlobalStyles } from '../styles/GlobalStyle';
